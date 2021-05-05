@@ -1,0 +1,2 @@
+# PRO-C43-TREASURE-HUNT
+Ali is an adventurer and on the lookout for treasure. After years of research, he has found a cave where he knows there are many jewels, coins, and innumerable treasures. Ali must unlock the cave so that he can get to the treasure. The cave guardian asks him 3 questions that he has to get correct to pass. He has been given scrambled words as clues too. But the questions are all about coding, something he has no idea about. We know you are good at coding. Can you help Ali get past the guardian and enter the cave?
